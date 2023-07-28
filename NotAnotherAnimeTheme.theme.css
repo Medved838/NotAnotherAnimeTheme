@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.pinimg.com/564x/b3/a3/60/b3a3606ef509f51dd8e380eca5de7e77.jpg);
+  --home-icon-image: url(https://i.pinimg.com/564x/24/23/97/24239764c1cea8b66eaa81f41ecddda5.jpg);
 
   /*
     Change your friends icon image position
@@ -65,9 +65,9 @@
   /*
     Mention colors
   */
-  --mention-color: rgba(120,81,169, 0.05);
-  --mention-sider: rgba(120,81,169, 1);
-  --mention-hover-color: rgba(120,81,169, 0.08);
+  --mention-color: rgba(167, 62, 184, 0.05);
+  --mention-sider: rgba(151, 62, 184, 1);
+  --mention-hover-color: rgba(174, 62, 184, 0.08);
 
   /*
     Server category hover color
@@ -154,7 +154,7 @@
   /*
     Unread Message Divider
   */
-  --unread-message-divider-color: #f04747;
+  --unread-message-divider-color: #bf34bb;
   --unread-message-divider-font-color: #fff;
 
   /*
