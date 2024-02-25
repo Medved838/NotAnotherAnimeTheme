@@ -21,12 +21,12 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://cdn.discordapp.com/attachments/753270562238759015/1134065013338947654/015d0254605ecaf41b22bf439992c481_8415126846599898619.png);
+  --theme-background-image: url(https://cdn.discordapp.com/attachments/753270562238759015/1211242509892591646/d4135073ad4f30971c543d515eb8f55a_6764922964277363352.jpg?ex=65ed7c7e&is=65db077e&hm=412488a0b8aa4233e3a06a7237d1010ce5ac0b2d4eba56d123d2b9a8ffe1ac80&);
 
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(64, 80, 247);
+  --main-theme-color: rgb(199, 40, 40);
 
   /*
     Main Theme Transparency
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://cdn.discordapp.com/attachments/753270562238759015/1138454161772519476/24239764c1cea8b66eaa81f41ecddda5.png);
+  --home-icon-image: url(https://cdn.discordapp.com/attachments/753270562238759015/1211243528529772544/298063013135e105f26d1b9ef56b383e.jpg?ex=65ed7d71&is=65db0871&hm=849f8d2e5365f458f6ea7b3ef1819e1fb455017a6c60e19911946f92e66048e8&);
 
   /*
     Change your friends icon image position
@@ -65,9 +65,9 @@
   /*
     Mention colors
   */
-  --mention-color: rgba(167, 62, 184, 0.05);
-  --mention-sider: rgba(151, 62, 184, 1);
-  --mention-hover-color: rgba(174, 62, 184, 0.08);
+  --mention-color: rgba(184, 62, 62, 0.05);
+  --mention-sider: rgba(184, 62, 62, 1);
+  --mention-hover-color: rgba(184, 62, 88, 0.08);
 
   /*
     Server category hover color
@@ -126,7 +126,7 @@
   /*
     Message Hover Buttons
   */
-  --message-hover-buttons-background: rgba(171, 177, 237, 0.1);
+  --message-hover-buttons-background: rgba(237, 171, 171, 0.1);
 
   /*
     Context Menu Transparency
