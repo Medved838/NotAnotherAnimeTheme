@@ -154,13 +154,13 @@
   /*
     Unread Message Divider
   */
-  --unread-message-divider-color: #bf34bb;
+  --unread-message-divider-color: #bf3434;
   --unread-message-divider-font-color: #fff;
 
   /*
     New Messages Bar Color
   */
-  --new-messages-bar-background-color: #7289da;
+  --new-messages-bar-background-color: #da7272;
   --new-messages-bar-font-color: #fff;
 
   /*
